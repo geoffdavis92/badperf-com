@@ -1,0 +1,13 @@
+{
+  "name": "badperf-com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/geoffdavis92/badperf-com.git",
+  "author": "Geoff Davis <gdavis@archermalmo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "angularjs": "^0.0.1",
+    "jquery": "^3.3.1",
+    "react": "^16.4.2"
+  }
+}
